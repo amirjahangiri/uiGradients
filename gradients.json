@@ -1532,5 +1532,10 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Amir",
+        "colors": ["#0d2e7f", "#5689ff"]
     }
+  
 ]
